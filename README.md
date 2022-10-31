@@ -5,7 +5,7 @@
 PifuHD
 
 # what coding
-CSS Exclusions All
+Coding everything except ( CSS ) development language  
 
 # Production period
 2022 09 21 ~ 2022 09 23
