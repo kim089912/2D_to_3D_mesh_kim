@@ -1,8 +1,11 @@
-# tiger
+# tiger project
 2D to 3D mesh
 
-# 제작범위
-CSS 제외 전체
+# need
+PifuHD
 
-# 제작기간
+# what coding
+CSS Exclusions All
+
+# Production period
 2022 09 21 ~ 2022 09 23
